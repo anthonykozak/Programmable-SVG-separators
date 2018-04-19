@@ -1,0 +1,16 @@
+
+svg{
+	display:block;
+}
+.svg-upper-previous{
+	top:-100px;
+	margin-bottom: -100px;
+	position:relative;
+	z-index:1;
+}
+.svg-down-next{
+	top:0 !important;
+	margin-bottom: -100px;
+	position:relative;
+	z-index:1;
+}
