@@ -13,5 +13,8 @@ echo SVGSeparator::draw( $type, $side, $color, $height, $width );
 - $height : height of the svg, 100 by default
 - $width : width of the effect inside the svg, 10 by default. The svg size is 100%
 
+# Credits
+Anthony Koza - https://www.exoa.fr
+
 # Demo
 ![Demo](/demo.jpg)
